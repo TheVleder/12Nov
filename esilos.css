@@ -1,4 +1,13 @@
+body{
+    background-color: rgb(73, 46, 10);
+}
 p{
     font-weight: bold;
     color: beige;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+
+
 }
